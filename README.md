@@ -1,4 +1,4 @@
 # my-repository
 This is my first Git Repository.
 <br>
-Author - Anshu Gaud
+Author - Anshu Mahara
